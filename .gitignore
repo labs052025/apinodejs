@@ -1,0 +1,126 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules
+pnpm-lock.yaml
+yarn.lock
+
+# Optional build outputs
+dist
+build
+coverage
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary files and directories
+tmp
+temp
+.tmp
+
+# Various editor backups and temporary files
+*.swp
+*.swo
+*.vscache
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.DS_Store
+Thumbs.db
+.history
+
+# Node.js specific
+**/node_modules/**
+.npm
+.yarn
+
+# IDE specific files
+.idea
+*.iml
+
+# Packages lock files (already covered above, but for clarity)
+# package-lock.json
+
+# Ignore bundled dependencies
+bundle
+
+# Ignore any build output folder used by other tools
+out
+
+# Grunt output directory
+.grunt
+
+# Bower components directory
+bower_components
+
+# Testing coverage reports
+lcov-report
+
+# ESlint cache
+.eslintcache
+
+# Stylelint cache
+.stylelintcache
+
+# Netlify cache
+.netlify
+
+# Serverless directory
+.serverless
+
+# FuseBox cache
+.fusebox
+
+# Next.js cache
+.next
+
+# Nuxt.js cache
+.nuxt
+
+# Gatsby cache
+.cache
+
+# Parcel cache
+.parcel-cache
+
+# Expo cache
+.expo
+
+# Rush config
+rush.json
+common/temp
+pnpm-workspace.yaml
+
+# Deno cache
+.deno
+
+# TurboRepo cache
+.turbo
+
+# IntelliJ
+.idea
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+ehthumbs.db
+desktop.ini
