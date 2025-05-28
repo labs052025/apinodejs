@@ -4,3 +4,6 @@ npm install express
 
 # Ejecutar un proyecto de nodejs
 node server
+
+# Iniciar dependencia de un proyecto nodejs
+npm install
